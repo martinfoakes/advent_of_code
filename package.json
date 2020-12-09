@@ -1,0 +1,19 @@
+{
+  "name": "advent_of_code_2020",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020 Puzzles",
+  "main": "day1-sum-puzzle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinfoakes/advent_of_code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinfoakes/advent_of_code/issues"
+  },
+  "homepage": "https://github.com/martinfoakes/advent_of_code#readme"
+}
